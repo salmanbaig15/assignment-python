@@ -105,6 +105,7 @@ match y:
         print("Non-century non leap year")
 #10
 a = input("Enter your favorite color: ").lower()
+a = a.split(' ')
 match a:
     case a if "yellow" in a:
         print("Monday")
