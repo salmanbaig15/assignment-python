@@ -9,7 +9,7 @@ c = a + b
 print("Sum of {} and {} is {}".format(a,b,c))
 #4
 a = int(input("Enter the radius: "))
-print("Area of circle is {}".format(22.17*a**2))
+print("Area of circle is {}".format(3.14*a**2))
 #5
 a = int(input("Enter any number: "))
 print("Square of {} is {}".format(a, a**2))
